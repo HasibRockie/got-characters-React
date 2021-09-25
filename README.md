@@ -12,5 +12,5 @@ external API Link: https://thronesapi.com/api/v2/Characters
 
 
  ### Live server link
- https://got-characters.netlify.app 
-  
+ https://got-characters-hasibrockie.netlify.app 
+
