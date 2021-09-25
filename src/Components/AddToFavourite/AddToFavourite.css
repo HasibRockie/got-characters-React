@@ -1,0 +1,17 @@
+.person{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin: 10px;
+    background-color: teal;
+    color: rgb(255, 255, 255);
+}
+
+.person img{
+    height: 60px;
+    margin: 5px 10px;
+    border-radius: 100px;
+    border: 2px solid white;
+}
