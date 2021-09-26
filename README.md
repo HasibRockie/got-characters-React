@@ -6,7 +6,7 @@
 external API Link: https://thronesapi.com/api/v2/Characters
 
 ### WebPage description:
- ◉ This webpage with show the characters of the series game of thrones (GOT), their Name, Age, Family, Title also including images.
+ ◉ This webpage will show the characters of the series game of thrones (GOT), their Name, Age, Family, Title also including images.
 
  ◉ If the "Add to Favourite" button is clicked, then The character will be added as favourite, and that will appear in right side with fullname and image.
 
