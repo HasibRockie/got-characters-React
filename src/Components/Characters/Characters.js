@@ -13,8 +13,12 @@ const Characters = () => {
     },[])
 
     const handleFavouriteButton = (character) => {
-        const newFavourites = [...favourites, character]
-        setFavourites(newFavourites)
+        let newFavourites = [] 
+        if(favourites.indexOf(character) === -1){
+            newFavourites = [...favourites, character]
+            setFavourites(newFavourites)
+        }
+        
     }
 
     return (
